@@ -46,7 +46,7 @@ public class LoginActivity extends AppCompatActivity {
                 EditText etUsername = (EditText) findViewById(R.id.etUsername);
                 EditText etPassword = (EditText) findViewById(R.id.etPassword);
 
-//Temporary success only for login button
+                //Temporary success only for login button
                 //Login was successful
                 //Show Toast message
                 Toast toastLoginSuccess = Toast.makeText(context, textLoginSuccess, duration);
